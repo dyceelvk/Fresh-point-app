@@ -1,0 +1,1 @@
+{"name":"kristys-tasty-cuisine","private":true,"version":"1.0.0","scripts":{"start":"python3 -m http.server 4173","cap:add:android":"npx cap add android","cap:sync":"npx cap sync","cap:open":"npx cap open android"},"dependencies":{"@capacitor/android":"latest","@capacitor/cli":"latest","@capacitor/core":"latest"}}
